@@ -25,4 +25,4 @@ width = "200"
 
 
 ### Short Note
-This design process, necessary intuition, and elborate lectures in this class pushed me to pursue my interest in Computer Architecture and building systems from the ground up : ). 
+This design process, necessary intuition, and elaborate lectures in this class pushed me to pursue my interest in Computer Architecture and building systems from the ground up : ). 
